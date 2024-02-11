@@ -1,0 +1,57 @@
+body{
+  background-color: antiquewhite;
+}
+header {
+  margin-bottom: 64px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  color: rgb(117, 11, 66);
+  margin: 12px 0;
+}
+h2 {
+  margin-left: 100px;
+}
+p{
+  text-align: center;
+}
+
+#description {
+  margin: 8px;
+}
+
+/* header p {
+  margin-bottom: 36px;
+} */
+
+a {
+  padding: 12px 48px;
+  color: black;
+  border-radius: 4px;
+  font-size: 24px;
+  display: inline-block;
+  text-align: center;
+}
+
+a:hover {
+  background-color: rgb(247, 146, 191);
+  text-decoration: none;
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+
+li {
+  padding: 16px;
+  box-shadow: 1px 1px 4px rgb(205, 101, 176);
+  margin: 32px;
+  background-color: rgb(223, 136, 124);
+  border-radius: 6px;
+}
+

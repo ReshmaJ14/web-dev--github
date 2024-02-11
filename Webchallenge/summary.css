@@ -1,0 +1,49 @@
+body {
+  font-family: 'Franklin Gothic Medium', sans-serif;
+  background-color: rgb(246, 196, 246);
+}
+header {
+  text-align: center;
+  padding: 24px;
+}
+h1 {
+font-size: 50px;
+color: rgb(106, 40, 86);
+}
+header img {
+  width: 200px;
+}
+main{
+  padding: 30px;
+  width: 700px;
+  margin: 32px auto;
+  border-radius: 8px;
+  background-color: rgb(231, 40, 231);
+}
+ul{
+  margin: 20px;
+  padding: 0;
+  list-style: none;
+}
+li{
+  padding-left: 10px;
+  margin: 10px;
+}
+a{
+  text-decoration: none;
+  color: purple;
+  background-color: rgba(238, 166, 226, 0.79);
+  padding: 2PX 4px;
+  border-radius: 4px;
+}
+a:hover{
+  color: blueviolet;
+}
+footer{
+    text-align: center;
+}
+
+footer P{
+  color: rgb(249, 16, 145);
+  margin-top: 10PX;
+}
